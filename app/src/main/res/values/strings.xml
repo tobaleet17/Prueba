@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppPrueba</string>
+    <string name="missatge">Hola Pepe</string>
 </resources>
